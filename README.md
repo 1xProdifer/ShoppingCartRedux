@@ -13,7 +13,7 @@ This lab project implements a simple shopping cart with the following features:
 - Clear cart and checkout confirmation
 - Navigation between product list and cart screens using React Navigation
 
-## 🧩 Tech Stack
+## Tech Stack
 
 - **React Native CLI**
 - **Redux Toolkit** for global state
@@ -25,8 +25,8 @@ This lab project implements a simple shopping cart with the following features:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PlatformSettingsApp.git
-cd PlatformSettingsApp
+git clone https://github.com/YOUR_USERNAME/projectName.git
+cd ProjectName
 ```
 
 2. Install dependencies:
